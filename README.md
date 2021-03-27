@@ -1,3 +1,8 @@
+[![GitHub license](https://img.shields.io/github/license/ethanny2/-postgres-react-node-boilerplate)](https://github.com/ethanny2/-postgres-react-node-boilerplate)
+[![GitHub stars](https://img.shields.io/github/stars/ethanny2/-postgres-react-node-boilerplate)](https://github.com/ethanny2/-postgres-react-node-boilerplate/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/ethanny2/-postgres-react-node-boilerplate)](https://github.com/ethanny2/-postgres-react-node-boilerplate/network)
+[![Twitter Badge](https://img.shields.io/badge/chat-twitter-blue.svg)](https://twitter.com/ArrayLikeObj)
+
 # Full Stack PERN (PostgreSQL, Express, React, Node) Starter
 
 <p align="center">
